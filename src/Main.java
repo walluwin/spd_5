@@ -1,10 +1,8 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
-
+class Main {
     public static void main(String[] args) {
-
         List<String> songs = Arrays.asList(
                 "Blinding Lights",
                 "Starboy",
